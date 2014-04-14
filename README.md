@@ -2,7 +2,9 @@ CCLabelTTFExtended
 ==================
 
 Extension of the CCLabelTTF class for Cocos2d-iPhone 2.x
-I made this extended label because I need an autosizing functionality. Also added a cool shadow effect
+The CCLabelTTFExtended supports:
+- Font autosizing functionality (with fixed label size). 
+- Cool shadow effect
 
 How to use it
 ---------
@@ -24,8 +26,8 @@ CCLabelTTFExtended *lblSubTitle =
 
 Some screens
 ---------
-![ScreenShot](https://raw.github.com/capezzbr/CCLabelTTFExtended/master/screens/screen1.PNG)
+![ScreenShot](screens/screen1.PNG)
 
-![ScreenShot](https://raw.github.com/capezzbr/CCLabelTTFExtended/master/screens/screen2.PNG)
+![ScreenShot](screens/screen2.PNG)
 
-![ScreenShot](https://raw.github.com/capezzbr/CCLabelTTFExtended/master/screens/screen3.PNG)
+![ScreenShot](screens/screen3.PNG)
