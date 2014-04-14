@@ -8,7 +8,7 @@ The CCLabelTTFExtended supports:
 
 How to use it
 ---------
-```
+```objective-c
 CGSize winSize = [CCDirector sharedDirector].winSize;
 int padding = 10;
 CCLabelTTFExtended *lblSubTitle =
