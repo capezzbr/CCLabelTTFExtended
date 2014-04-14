@@ -24,3 +24,8 @@ CCLabelTTFExtended *lblSubTitle =
 
 Some screens
 ---------
+![ScreenShot](https://raw.github.com/capezzbr/CCLabelTTFExtended/master/screens/screen1.PNG)
+
+![ScreenShot](https://raw.github.com/capezzbr/CCLabelTTFExtended/master/screens/screen2.PNG)
+
+![ScreenShot](https://raw.github.com/capezzbr/CCLabelTTFExtended/master/screens/screen3.PNG)
