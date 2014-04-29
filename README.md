@@ -31,3 +31,9 @@ Some screens
 ![ScreenShot](screens/screen2.PNG)
 
 ![ScreenShot](screens/screen3.PNG)
+
+License 
+---------
+CCLabelTTFExtended is available under the MIT license. See the LICENSE file for more info.
+
+**Follow me on twitter [@capezzbr](http://www.twitter.com/capezzbr)**
